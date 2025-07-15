@@ -1,0 +1,78 @@
+🔍 Reddit User Persona
+👤 Username: kojied
+
+📌 Inferred Traits:
+- Topics of Interest: game, best, trading, cities, feel
+- Language Tone: neutral
+- Number of Posts: 10
+- Number of Comments: 10
+
+🧠 Persona Summary:
+kojied is an active Redditor who frequently engages with topics like game, best, trading, cities, feel. Their overall language tone seems to be neutral. They appear to communicate openly through both posts and comments.
+
+📄 Citations:
+
+[Post 1] I feel violated by intern season There's this bar that I frequent a few blocks away from my house. Technically different neighborhood, but generally has a mature vibe with people who like music and to dance. Today when I went to the bar and all of a sudden I felt like I was at a college basement par...
+Used for: Topics & Tone
+
+[Post 2] H1B holders, what are your thoughts on the narrative that you are being exploited? ...
+Used for: Topics & Tone
+
+[Post 3] H1B holders, do you feel exploited, or see it as an opportunity to build a better life for you in the US? ...
+Used for: Topics & Tone
+
+[Post 4] What needs to happen for the league to review the inconsistencies of the refs? [removed]...
+Used for: Topics & Tone
+
+[Post 5] Are you guys for/against banning Tiktok in the US? [removed]...
+Used for: Topics & Tone
+
+[Post 6] What’s a movie that best represents your childhood? There's so many coming of age movies for boomers and millennials, what about for gen-Z?...
+Used for: Topics & Tone
+
+[Post 7] Spacial tours with 3D map and 360˚ video ...
+Used for: Topics & Tone
+
+[Post 8] Best blogs, tutorial channels to learn Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?...
+Used for: Topics & Tone
+
+[Post 9] Can't wait for Vision Air 5 launching in 2034 with these transparent displays! ...
+Used for: Topics & Tone
+
+[Post 10] Watching Edgerunners on the moon feels Thank you u/overpaidengineer for the inspo...
+Used for: Topics & Tone
+
+[Comment 1] Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey.
+Also I just store ale at the tavern or keep it in the brewery for this reason...
+Used for: Topics & Tone
+
+[Comment 2] Yeah but it doesn’t seem to affect much though...
+Used for: Topics & Tone
+
+[Comment 3] Incredible stuff! How did you maintain character consistency? Did you generate a consistent character image and then use the image-to-video feature?...
+Used for: Topics & Tone
+
+[Comment 4] I do too but I rarely finish a game haha. Too little late game content...
+Used for: Topics & Tone
+
+[Comment 5] I do too but I rarely finish a game haha. Too little late game content...
+Used for: Topics & Tone
+
+[Comment 6] You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)....
+Used for: Topics & Tone
+
+[Comment 7] That proximity is ridiculous, deep mining, two fishing huts, vegetable, orchards, and trade iron for malt.
+imo trading raw materials is easier than trading crafted goods in the current build. High quantity stuff is easy to stock, and you could have multiple trading posts up without any major issues....
+Used for: Topics & Tone
+
+[Comment 8] Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be...
+Used for: Topics & Tone
+
+[Comment 9] So in general each family will eat each type of food equally. Which means those with low supply are more likely to be consumed first.
+
+Eggs I believe each plot only produces one per month, so it's helpful, but won't be sufficient to maintain food diversity...
+Used for: Topics & Tone
+
+[Comment 10] I build my cities close to the borders of others, that way I'm not managing multiple cities at once. The best is building it at the three-way border. That way you're basically managing three cities at once....
+Used for: Topics & Tone
+
